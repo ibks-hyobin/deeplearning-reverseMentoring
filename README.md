@@ -21,17 +21,20 @@
   * Early stopping
     
 ### 1.3 Gradient Descent Optimization Algorithms
+* Batch Gradient Descent
 * Stochastic Gradient Descent (SGD)
+* NAG
 * Momentum
 * Adagrad
 * Rmsprop
+* Adam
 
-### 1.4 Regularization
-* L1 Regularization
-* L2 Regularization
+### 1.4 Binary Classification
+* Logistic Regression
+* Cross-Entropy
 
-### 1.5 Linear classification
-
+### 1.5 Multinomial Classification
+* Softmax
 
 ### 1.6 실습 코드
 * [01.Python Library Tutorial](https://github.com/ibks-hyobin/deeplearning-reverseMentoring/blob/master/01.Python%20Library%20Tutorial%20(numpy%2Cmatplotlib).ipynb)
