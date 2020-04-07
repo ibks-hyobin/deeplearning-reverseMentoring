@@ -1,4 +1,5 @@
-# DeapLearning-ReverseMentoring
+# deeplearning 역멘토링
+2020 ibksystem 플랫폼사업팀 딥러닝 역멘토링 컨텐츠입니다.
 
 ## Lecture 1
 
