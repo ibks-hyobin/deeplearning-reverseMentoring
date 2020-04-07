@@ -6,18 +6,18 @@
 
 * Machine Learning의 정의
 * Machine Learning의 분류
-** 지도학습 (supervised learning)
-*** KNN classification
-*** linear regression
-** 비지도학습(unsupervised learning)
-*** K-means clustering
+  * 지도학습 (supervised learning)
+    * KNN classification
+    * linear regression
+  * 비지도학습(unsupervised learning)
+    * K-means clustering
 
 ### 1.2 Linear Regression
-** Gradient Descent
-*** Learning Rate
-** Overfitting
-*** Regularization
-*** Early stopping
+  * Gradient Descent
+    * Learning Rate
+  * Overfitting
+    * Regularization
+    * Early stopping
 
 ### 참고 자료
 * [stanford university cs231 Lecture 2](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture02.pdf)
