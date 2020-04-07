@@ -33,8 +33,8 @@
 
 
 ### 1.6 실습 코드
-* []()
-* 
+* [01.Python Library Tutorial](https://github.com/ibks-hyobin/deeplearning-reverseMentoring/blob/master/01.Python%20Library%20Tutorial%20(numpy%2Cmatplotlib).ipynb)
+* [02.Linear Regression](https://github.com/ibks-hyobin/deeplearning-reverseMentoring/blob/master/02.Linear%20Regression.ipynb)
 * 
 * 
 
