@@ -47,7 +47,6 @@
 * [머신러닝, 1시간으로 입문하기](https://www.youtube.com/watch?v=j3za7nv7RfI&t=2047s)
 * [머신러닝의 기초 - 선형 회귀 한 번에 제대로 이해하기](https://www.youtube.com/watch?v=ve6gtpZV83E&t=1619s)
 * [Gradient Descent Optimization Algorithms 정리](http://shuuki4.github.io/deep%20learning/2016/05/20/Gradient-Descent-Algorithm-Overview.html)
-* [Regularization(Overfitting해결책)](https://m.blog.naver.com/laonple/220527647084)
 * [PyTorch로 시작하는 딥러닝 입문](https://wikidocs.net/55580)
 
 ## Lecture 2
