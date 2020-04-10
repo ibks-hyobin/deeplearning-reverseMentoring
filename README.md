@@ -57,5 +57,6 @@
 
 ## Code Example
 
-* [Pytorch basic 실습 자료](https://github.com/gyunggyung/PyTorch)  
-* [Pytorch 공식 github](https://github.com/pytorch/pytorch)
+* 참고 자료: https://github.com/gyunggyung/PyTorch
+* Pytorch 예제 코드 : https://github.com/pytorch/pytorch
+* Pytorch 공식 tutorial : https://github.com/pytorch/tutorials
