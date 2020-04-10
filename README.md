@@ -38,9 +38,11 @@
 
 ### 1.6 실습 코드
 * [01.Python Library Tutorial](https://github.com/ibks-hyobin/deeplearning-reverseMentoring/blob/master/Lecture1/01_Python_Library_Tutorial%20(numpy%2Cmatplotlib).ipynb)
-* [02.Linear Regression with Python](https://github.com/ibks-hyobin/deeplearning-reverseMentoring/blob/master/Lecture1/02.Linear%20Regression.ipynb)
+* [02.Linear Regression with Python](https://github.com/ibks-hyobin/deeplearning-reverseMentoring/blob/master/Lecture1/02_Linear_Regression.ipynb)
 * [03.PyTorch Tutorial](https://github.com/ibks-hyobin/deeplearning-reverseMentoring/blob/master/Lecture1/03_Pytorch_Tutorial.ipynb)
-* [04.Linear Regression with PyTorch](https://github.com/ibks-hyobin/deeplearning-reverseMentoring/blob/master/Lecture1/04_Linear_Regression_Models.ipynb)
+* [04.PyTorch Variable Autograd](https://github.com/ibks-hyobin/deeplearning-reverseMentoring/blob/master/Lecture1/04_variable_autograd.ipynb)
+* [05.Linear Regression with PyTorch](https://github.com/ibks-hyobin/deeplearning-reverseMentoring/blob/master/Lecture1/05_Linear_Regression_Models.ipynb)
+* [06.Quiz(homework)](https://github.com/ibks-hyobin/deeplearning-reverseMentoring/blob/master/Lecture1/06_Quiz.ipynb)
 
 ### 참고 자료
 * [stanford university cs231 Lecture 2, Lecture 3](http://cs231n.stanford.edu/2018/syllabus.html)
