@@ -1,9 +1,6 @@
 # deeplearning 역멘토링
 2020 ibksystem 플랫폼사업팀 딥러닝 역멘토링 컨텐츠입니다.
 
-[Pytorch basic](https://github.com/gyunggyung/PyTorch)
-[Pytorch example code](https://github.com/pytorch/pytorch)
-
 ## Lecture 1
 
 ### 1.1 Machine Learning Introduction
@@ -57,3 +54,8 @@
 ## Lecture 2
 
 ## Lecture 3
+
+## Code Example
+
+* [Pytorch basic 실습 자료](https://github.com/gyunggyung/PyTorch)  
+* [Pytorch 예제 코드](https://github.com/pytorch/pytorch)
