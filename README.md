@@ -55,7 +55,7 @@
 
 ## Lecture 3
 
-## Code Example
+## Pytorch Codes
 
 * 참고 자료 : https://github.com/gyunggyung/PyTorch
 * Pytorch example : https://github.com/pytorch/pytorch
