@@ -57,7 +57,7 @@
 
 ### 2.2 Artificial Neural Networks
 * activation functions
- * vanishing gradient problem
+  * vanishing gradient problem
 * Feed-forward Neural Network
 * Error Backpropagation
 * MLP (Multi-layer Perceptrons)
