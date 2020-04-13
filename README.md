@@ -52,6 +52,16 @@
 * [PyTorch로 시작하는 딥러닝 입문](https://wikidocs.net/55580)
 
 ## Lecture 2
+### 2.1 Introduction to Neural Networks
+* History of DNN
+
+### 2.2 Neural Networks
+* activation function
+* Backpropagation
+* MLP (Multi-layer Perceptrons)
+
+### 참고 자료
+* [stanford university cs231 Lecture 4](http://cs231n.stanford.edu/2018/syllabus.html)
 
 ## Lecture 3
 
