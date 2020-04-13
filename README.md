@@ -63,6 +63,7 @@
 
 ### 참고 자료
 * [stanford university cs231 Lecture 4](http://cs231n.stanford.edu/2018/syllabus.html)
+* [딥러닝 역사](http://blog.naver.com/PostView.nhn?blogId=windowsub0406&logNo=220883022888)
 
 ## Lecture 3
 
