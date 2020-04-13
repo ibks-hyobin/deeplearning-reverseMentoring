@@ -55,7 +55,7 @@
 ### 2.1 Introduction to Neural Networks
 * History of ANN
 
-### MLP (Multi-layer Perceptrons)
+### 2.2 Multi-layer Perceptrons (MLP)
 * activation functions
   * vanishing gradient problem
 * Feed-forward Neural Network
