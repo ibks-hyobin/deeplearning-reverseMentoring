@@ -53,14 +53,13 @@
 
 ## Lecture 2
 ### 2.1 Introduction to Neural Networks
-* History of DNN
+* History of ANN
 
-### 2.2 Artificial Neural Networks
+### MLP (Multi-layer Perceptrons)
 * activation functions
   * vanishing gradient problem
 * Feed-forward Neural Network
 * Error Backpropagation
-* MLP (Multi-layer Perceptrons)
 
 ### 참고 자료
 * [stanford university cs231 Lecture 4](http://cs231n.stanford.edu/2018/syllabus.html)
