@@ -55,9 +55,11 @@
 ### 2.1 Introduction to Neural Networks
 * History of DNN
 
-### 2.2 Neural Networks
-* activation function
-* Backpropagation
+### 2.2 Artificial Neural Networks
+* activation functions
+* vanishing gradient problem
+* Feed-forward Neural Network
+* Error Backpropagation
 * MLP (Multi-layer Perceptrons)
 
 ### 참고 자료
