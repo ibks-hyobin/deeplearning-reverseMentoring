@@ -58,6 +58,7 @@
 * History of ANN
 
 ### 2.2 Multi-layer Perceptrons (MLP)
+* XOR problem
 * activation functions
   * vanishing gradient problem
 * Feed-forward Neural Network
