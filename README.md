@@ -65,9 +65,9 @@
 * Error Backpropagation
 
 ### 참고 자료
-* [stanford university cs231 Lecture 4](http://aikorea.org/cs231n/optimization-2/)
 * [딥러닝 역사](http://blog.naver.com/PostView.nhn?blogId=windowsub0406&logNo=220883022888)
-* [activation functions](https://reniew.github.io/12/)
+* [stanford university cs231 Lecture 4](http://aikorea.org/cs231n/optimization-2/)
+* [딥러닝에서 사용하는 활성화함수](https://reniew.github.io/12/)
 
 ## Lecture 3
 
