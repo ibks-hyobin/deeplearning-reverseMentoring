@@ -56,6 +56,7 @@
 ## Lecture 2
 ### 2.1 Introduction to Neural Networks
 * History of ANN
+* Universal approximation theorem
 
 ### 2.2 Multi-layer Perceptrons (MLP)
 * XOR problem
@@ -64,16 +65,42 @@
 * Feed-forward Neural Network
 * Error Backpropagation
 
+### 2.3 Regularization
+* L1 regularization
+* L2 regularization
+* dropout
+* batch normalization
+
+### 2.4 Weights Initialization
+* He initialization
+* Xavier Initialization
+
+### 2.5 실습 코드
+* [0.1 Multi-Layer Perceptrons]
+* [0.2 MNIST data classification with MLP]
+
 ### 참고 자료
 * [딥러닝 역사](http://blog.naver.com/PostView.nhn?blogId=windowsub0406&logNo=220883022888)
 * [stanford university cs231 Lecture 4](http://aikorea.org/cs231n/optimization-2/)
-* [딥러닝에서 사용하는 활성화함수](https://reniew.github.io/12/)
-* [Activation Function](https://deepestdocs.readthedocs.io/en/latest/002_deep_learning_part_1/0024/)
+* [Activation Functions](https://deepestdocs.readthedocs.io/en/latest/002_deep_learning_part_1/0024/)
+* [Dropout](https://deepestdocs.readthedocs.io/en/latest/004_deep_learning_part_2/0041/)
 
 ## Lecture 3
+### 3.1 Convolution Neural Network
+
+
+### 3.2 CNN Architectures
+* AlexNet
+* VGG
+* GoogLeNet
+* ResNet
+* etc
+
+### 3.3 GPU
+
+### 3.4 실습 코드
 
 ## PyTorch Sources
-
 * 참고 자료 : https://github.com/gyunggyung/PyTorch
 * Pytorch example : https://github.com/pytorch/examples
 * Pytorch tutorial : https://github.com/pytorch/tutorials
