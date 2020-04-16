@@ -56,12 +56,12 @@
 ## Lecture 2
 ### 2.1 Introduction to Neural Networks
 * History of ANN
-* Universal approximation theorem
 
 ### 2.2 Multi-layer Perceptrons (MLP)
 * XOR problem
 * activation functions
-  * gradient vanishing problem
+  * gradient vanishing
+  * gradient exploding
 * Feed-forward Neural Network
 * Error Backpropagation
 
