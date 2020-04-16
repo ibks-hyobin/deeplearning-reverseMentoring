@@ -75,6 +75,8 @@
 * He initialization
 * Xavier Initialization
 
+### 2.5 Hyperparameter tuning
+
 ### 2.5 실습 코드
 * [0.1 Multi-Layer Perceptrons](https://github.com/ibks-hyobin/deeplearning-reverseMentoring/blob/master/Lecture1/07_Quiz_Code.ipynb)
 * [0.2 MNIST data classification with MLP]
