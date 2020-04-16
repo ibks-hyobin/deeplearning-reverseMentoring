@@ -78,8 +78,9 @@
 ### 2.5 Hyperparameter tuning
 
 ### 2.5 실습 코드
-* [0.1 Multi-Layer Perceptrons](https://github.com/ibks-hyobin/deeplearning-reverseMentoring/blob/master/Lecture1/07_Quiz_Code.ipynb)
-* [0.2 MNIST data classification with MLP]
+* [01. Multi-Layer Perceptrons](https://github.com/ibks-hyobin/deeplearning-reverseMentoring/blob/master/Lecture1/07_Quiz_Code.ipynb)
+* [02. MNIST data classification with MLP]
+* [03. Basic MNIST Example](https://github.com/pytorch/examples/tree/master/mnist)
 
 ### 참고 자료
 * [딥러닝 역사](http://blog.naver.com/PostView.nhn?blogId=windowsub0406&logNo=220883022888)
