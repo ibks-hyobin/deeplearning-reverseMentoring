@@ -61,7 +61,7 @@
 ### 2.2 Multi-layer Perceptrons (MLP)
 * XOR problem
 * activation functions
-  * vanishing gradient problem
+  * gradient vanishing problem
 * Feed-forward Neural Network
 * Error Backpropagation
 
