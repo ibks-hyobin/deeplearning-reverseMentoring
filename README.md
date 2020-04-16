@@ -68,6 +68,7 @@
 * [딥러닝 역사](http://blog.naver.com/PostView.nhn?blogId=windowsub0406&logNo=220883022888)
 * [stanford university cs231 Lecture 4](http://aikorea.org/cs231n/optimization-2/)
 * [딥러닝에서 사용하는 활성화함수](https://reniew.github.io/12/)
+* [Activation Function](https://deepestdocs.readthedocs.io/en/latest/002_deep_learning_part_1/0024/)
 
 ## Lecture 3
 
