@@ -84,6 +84,7 @@
 * [stanford university cs231 Lecture 4](http://aikorea.org/cs231n/optimization-2/)
 * [Activation Functions](https://deepestdocs.readthedocs.io/en/latest/002_deep_learning_part_1/0024/)
 * [Dropout](https://deepestdocs.readthedocs.io/en/latest/004_deep_learning_part_2/0041/)
+* [Batch Normalization](https://sacko.tistory.com/44)
 
 ## Lecture 3
 ### 3.1 Convolution Neural Network
