@@ -60,20 +60,51 @@
 ### 2.2 Multi-layer Perceptrons (MLP)
 * XOR problem
 * activation functions
-  * vanishing gradient problem
+  * gradient vanishing
+  * gradient exploding
 * Feed-forward Neural Network
 * Error Backpropagation
+
+### 2.3 Regularization
+* L1 regularization
+* L2 regularization
+* dropout
+* batch normalization
+
+### 2.4 Weights Initialization
+* He initialization
+* Xavier Initialization
+
+### 2.5 Hyperparameter tuning
+
+### 2.5 실습 코드
+* [01. Multi-Layer Perceptrons](https://github.com/ibks-hyobin/deeplearning-reverseMentoring/blob/master/Lecture1/07_Quiz_Code.ipynb)
+* [02. MNIST data classification with MLP]
+* [03. Basic MNIST Example](https://github.com/pytorch/examples/tree/master/mnist)
 
 ### 참고 자료
 * [딥러닝 역사](http://blog.naver.com/PostView.nhn?blogId=windowsub0406&logNo=220883022888)
 * [stanford university cs231 Lecture 4](http://aikorea.org/cs231n/optimization-2/)
-* [딥러닝에서 사용하는 활성화함수](https://reniew.github.io/12/)
-* [Activation Function](https://deepestdocs.readthedocs.io/en/latest/002_deep_learning_part_1/0024/)
+* [Activation Functions](https://deepestdocs.readthedocs.io/en/latest/002_deep_learning_part_1/0024/)
+* [Dropout](https://deepestdocs.readthedocs.io/en/latest/004_deep_learning_part_2/0041/)
+* [Batch Normalization](https://sacko.tistory.com/44)
 
 ## Lecture 3
+### 3.1 Convolution Neural Network
+
+
+### 3.2 CNN Architectures
+* AlexNet
+* VGG
+* GoogLeNet
+* ResNet
+* etc
+
+### 3.3 GPU
+
+### 3.4 실습 코드
 
 ## PyTorch Sources
-
 * 참고 자료 : https://github.com/gyunggyung/PyTorch
 * Pytorch example : https://github.com/pytorch/examples
 * Pytorch tutorial : https://github.com/pytorch/tutorials
