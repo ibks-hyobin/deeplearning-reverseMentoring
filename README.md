@@ -79,7 +79,7 @@
 
 ### 2.5 실습 코드
 * [01. Multi-Layer Perceptrons](https://github.com/ibks-hyobin/deeplearning-reverseMentoring/blob/master/Lecture1/07_Quiz_Code.ipynb)
-* [02. MNIST data classification with MLP]
+* [02. MNIST data classification with MLP](https://github.com/ibks-hyobin/deeplearning-reverseMentoring/blob/master/Lecture2/01.%20pytorch_MNIST_MLP.ipynb)
 * [03. Basic MNIST Example](https://github.com/pytorch/examples/tree/master/mnist)
 
 ### 참고 자료
