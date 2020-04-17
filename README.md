@@ -88,6 +88,8 @@
 * [Activation Functions](https://deepestdocs.readthedocs.io/en/latest/002_deep_learning_part_1/0024/)
 * [Dropout](https://deepestdocs.readthedocs.io/en/latest/004_deep_learning_part_2/0041/)
 * [Batch Normalization](https://sacko.tistory.com/44)
+* [Why is logistic regression considered a linear model?](https://www.quora.com/Why-is-logistic-regression-considered-a-linear-model)
+* [Why is logistic regression a linear classifier?](https://stats.stackexchange.com/questions/93569/why-is-logistic-regression-a-linear-classifier)
 
 ## Lecture 3
 ### 3.1 Convolution Neural Network
