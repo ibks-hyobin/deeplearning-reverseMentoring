@@ -70,6 +70,7 @@
 * L2 regularization
 * dropout
 * dropconnect
+* batch normalization
 
 ### 2.4 Weights Initialization
 * He initialization
