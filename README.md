@@ -94,7 +94,13 @@
 
 ## Lecture 3
 ### 3.1 Convolution Neural Network
-
+* Convolution
+* Channel
+* Filter
+* Kernel
+* Strid
+* Padding
+* Pooling
 
 ### 3.2 CNN Architectures
 * AlexNet
@@ -103,9 +109,11 @@
 * ResNet
 * etc
 
-### 3.3 GPU
+### 3.3 AWS SageMaker
+* Using the GPU
 
 ### 3.4 실습 코드
+* [Pytorch-cifar10 github](https://github.com/kuangliu/pytorch-cifar)
 
 ## PyTorch Sources
 * 참고 자료 : https://github.com/gyunggyung/PyTorch
