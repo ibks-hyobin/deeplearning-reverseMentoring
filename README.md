@@ -98,15 +98,18 @@
 * Channel
 * Filter
 * Kernel
-* Strid
+* Stride
 * Padding
 * Pooling
 
 ### 3.2 CNN Architectures
+* LeNet
 * **AlexNet**
-* **VGG**
+* **VGGNet**
 * GoogLeNet
 * **ResNet**
+* ZFNet
+* DenseNet
 * etc
 
 ### 3.3 AWS SageMaker
