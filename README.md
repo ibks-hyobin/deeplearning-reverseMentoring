@@ -118,6 +118,10 @@
 ### 3.4 실습 코드
 * [Pytorch-cifar10 github](https://github.com/kuangliu/pytorch-cifar)
 
+### 참고 자료
+* [CNN, Convolutional Neural Network 요약](http://taewan.kim/post/cnn/)
+* [라온피플 머신러닝 아카데미 - CNN](https://blog.naver.com/laonple/220587920012?proxyReferer=http%3A%2F%2Fblog.naver.com%2FPostView.nhn%3FblogId%3Dlaonple%26logNo%3D220692793375)
+
 ## PyTorch Sources
 * 참고 자료 : https://github.com/gyunggyung/PyTorch
 * Pytorch example : https://github.com/pytorch/examples
