@@ -103,10 +103,10 @@
 * Pooling
 
 ### 3.2 CNN Architectures
-* AlexNet
-* VGG
+* **AlexNet**
+* **VGG**
 * GoogLeNet
-* ResNet
+* **ResNet**
 * etc
 
 ### 3.3 AWS SageMaker
