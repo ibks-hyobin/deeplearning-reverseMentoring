@@ -122,9 +122,10 @@
 * [CNN, Convolutional Neural Network 요약](http://taewan.kim/post/cnn/)
 * [라온피플 머신러닝 아카데미 - CNN](https://blog.naver.com/laonple/220587920012?proxyReferer=http%3A%2F%2Fblog.naver.com%2FPostView.nhn%3FblogId%3Dlaonple%26logNo%3D220692793375)
 
+## Lecture 4
 ### 4.1 역멘토링 과제 참고 자료
 * Pandas
- * [Pandas 공식 홈페이지](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.value_counts.html)
+** [Pandas 공식 홈페이지](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.value_counts.html)
  * [Pandas 10분 완성](https://dataitgirls2.github.io/10minutes2pandas/)
  * [판다스(pandas) 기본 사용법 익히기](https://dandyrilla.github.io/2017-08-12/pandas-10min/)
  
