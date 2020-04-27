@@ -130,16 +130,16 @@
   * [판다스(pandas) 기본 사용법 익히기](https://dandyrilla.github.io/2017-08-12/pandas-10min/)
  
 * Matplotlib
- * [Matplotlib 공식 홈페이지](https://matplotlib.org/3.1.1/gallery/index.html)
- * [데이터 사이언스 스쿨 - Pandas의 시각화 기능](https://datascienceschool.net/view-notebook/372443a5d90a46429c6459bba8b4342c/)
+  * [Matplotlib 공식 홈페이지](https://matplotlib.org/3.1.1/gallery/index.html)
+  * [데이터 사이언스 스쿨 - Pandas의 시각화 기능](https://datascienceschool.net/view-notebook/372443a5d90a46429c6459bba8b4342c/)
 
 * 주택 가격 예측 모델
- * [kaggle - house prices advanced regression techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
- * [kaggle code example(MLP)](https://www.kaggle.com/leostep/pytorch-dense-network-for-house-pricing-regression)
+  * [kaggle - house prices advanced regression techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
+  * [kaggle code example(MLP)](https://www.kaggle.com/leostep/pytorch-dense-network-for-house-pricing-regression)
  
 * Visulaization example
- * [COVID-19, Analysis, Visualization & Comparisons](https://www.kaggle.com/imdevskp/covid-19-analysis-visualization-comparisons)
- * [Python Data Visualizations](https://www.kaggle.com/benhamner/python-data-visualizations)
+  * [COVID-19, Analysis, Visualization & Comparisons](https://www.kaggle.com/imdevskp/covid-19-analysis-visualization-comparisons)
+  * [Python Data Visualizations](https://www.kaggle.com/benhamner/python-data-visualizations)
 
 ## PyTorch Sources
 * 참고 자료 : https://github.com/gyunggyung/PyTorch
