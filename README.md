@@ -94,18 +94,52 @@
 
 ## Lecture 3
 ### 3.1 Convolution Neural Network
-
+* Convolution
+* Channel
+* Filter
+* Kernel
+* Stride
+* Padding
+* Pooling
 
 ### 3.2 CNN Architectures
-* AlexNet
-* VGG
+* LeNet
+* **AlexNet**
+* **VGGNet**
 * GoogLeNet
-* ResNet
+* **ResNet**
+* ZFNet
+* DenseNet
 * etc
 
-### 3.3 GPU
+### 3.3 AWS SageMaker
+* Using the GPU
 
 ### 3.4 실습 코드
+* [Pytorch-cifar10 github](https://github.com/kuangliu/pytorch-cifar)
+
+### 참고 자료
+* [CNN, Convolutional Neural Network 요약](http://taewan.kim/post/cnn/)
+* [라온피플 머신러닝 아카데미 - CNN](https://blog.naver.com/laonple/220587920012?proxyReferer=http%3A%2F%2Fblog.naver.com%2FPostView.nhn%3FblogId%3Dlaonple%26logNo%3D220692793375)
+
+## Lecture 4
+### 4.1 역멘토링 과제 참고 자료
+* Pandas
+  * [Pandas 공식 홈페이지](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.value_counts.html)
+  * [Pandas 10분 완성](https://dataitgirls2.github.io/10minutes2pandas/)
+  * [판다스(pandas) 기본 사용법 익히기](https://dandyrilla.github.io/2017-08-12/pandas-10min/)
+ 
+* Matplotlib
+  * [Matplotlib 공식 홈페이지](https://matplotlib.org/3.1.1/gallery/index.html)
+  * [데이터 사이언스 스쿨 - Pandas의 시각화 기능](https://datascienceschool.net/view-notebook/372443a5d90a46429c6459bba8b4342c/)
+
+* 주택 가격 예측 모델
+  * [kaggle - house prices advanced regression techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
+  * [kaggle code example(MLP)](https://www.kaggle.com/leostep/pytorch-dense-network-for-house-pricing-regression)
+ 
+* Visulaization example
+  * [COVID-19, Analysis, Visualization & Comparisons](https://www.kaggle.com/imdevskp/covid-19-analysis-visualization-comparisons)
+  * [Python Data Visualizations](https://www.kaggle.com/benhamner/python-data-visualizations)
 
 ## PyTorch Sources
 * 참고 자료 : https://github.com/gyunggyung/PyTorch
